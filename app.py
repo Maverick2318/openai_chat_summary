@@ -25,7 +25,7 @@ prompt = """Summarize this incident chat transcript [Person 1] Hi, we've been se
 [Person 1] Thanks everyone for all your help. We'll keep monitoring the situation and inform everyone if anything changes."""
 
 response = openai.Completion.create(
-  engine="text-davinci-002",
+  engine="text-davinci-003",
   prompt=prompt,
   temperature=0.4,
   max_tokens=64

@@ -20,23 +20,4 @@ I used this sample incident chat transcript:
 
 OpenAI's DaVinci 3 model summarized the transcript as follows:
 
-python app.py 
-{
-  "choices": [
-    {
-      "finish_reason": "length",
-      "index": 0,
-      "logprobs": null,
-      "text": "\n\nPerson 1 reported down time in the Europe region and Person 2, 3, and 4 began looking into it. Person 5 ran a diagnostic and Person 6 checked the databases. Person 7 suggested talking to the hosting provider and Person 8 found out that the issue was related to the DNS servers. Person 1 thanked everyone for"
-    }
-  ],
-  "created": 1671333752,
-  "id": "cmpl-6OeXwuhgQjAuF3W2Dy7hb9jWA3CEu",
-  "model": "text-davinci-003",
-  "object": "text_completion",
-  "usage": {
-    "completion_tokens": 64,
-    "prompt_tokens": 191,
-    "total_tokens": 255
-  }
-}
+Person 1 reported down time in the Europe region and Person 2, 3, and 4 began looking into it. Person 5 ran a diagnostic and Person 6 checked the databases. Person 7 suggested talking to the hosting provider and Person 8 found out that the issue was related to the DNS servers. Person 1 thanked everyone for...
