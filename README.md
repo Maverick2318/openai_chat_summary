@@ -20,4 +20,4 @@ I used this sample incident chat transcript:
 
 OpenAI's DaVinci 3 model summarized the transcript as follows:
 
-      "text": "\n\nPerson 1 reported down time in the Europe region and Person 2, 3, and 4 began looking into it. Person 5 ran a diagnostic and Person 6 checked the databases. Person 7 suggested talking to the hosting provider and Person 8 found out that the issue was related to the DNS servers. Person 1 thanked everyone for"
+Person 1 reported down time in the Europe region and Person 2, 3, and 4 began looking into it. Person 5 ran a diagnostic and Person 6 checked the databases. Person 7 suggested talking to the hosting provider and Person 8 found out that the issue was related to the DNS servers. Person 1 thanked everyone for...
